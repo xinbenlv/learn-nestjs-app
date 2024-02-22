@@ -18,7 +18,7 @@ npm run storybook
 
 2. but when referencing this library from a webapp repo, you can see the CSS was not appied 
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 To view a online instance: 
 visit https://learn-nestjs-app.vercel.app/
