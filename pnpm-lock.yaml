@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@namefi/storybook':
-    specifier: ^2.0.13
-    version: 2.0.13(@types/react-dom@18.2.19)(@types/react@18.2.57)
+    specifier: ^2.0.14
+    version: 2.0.14(@types/react-dom@18.2.19)(@types/react@18.2.57)
   next:
     specifier: 14.0.1
     version: 14.0.1(react-dom@18.2.0)(react@18.2.0)
@@ -240,8 +240,8 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: true
 
-  /@namefi/storybook@2.0.13(@types/react-dom@18.2.19)(@types/react@18.2.57):
-    resolution: {integrity: sha512-HbfQHzZidifPrdsmfJsWY1itgSNzR8oTfnzmG0N2+6svBiduXWdSHyvVThZ6jyvY0yPZEUq47IuaimtBJNkWaA==}
+  /@namefi/storybook@2.0.14(@types/react-dom@18.2.19)(@types/react@18.2.57):
+    resolution: {integrity: sha512-sE1RfYKpViPf6Zq1yR20U2Tmx0L536U3cPU9cvRdX3904vmBw3uaS1tqHAMFPIwXLhfL0goUqde80khf8uNgbg==}
     engines: {node: '>=20 < 21', npm: '>=10 < 11'}
     dependencies:
       '@radix-ui/themes': 2.0.3(@types/react-dom@18.2.19)(@types/react@18.2.57)(react-dom@18.2.0)(react@18.2.0)
