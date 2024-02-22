@@ -3,9 +3,10 @@
 1. In the shared library (repo: https://github.com/d3servelabs/namefi-storybook), we can see that CSS correctly applied. 
 ![alt text](image.png)
 
-Replicate: 
+To view a online instance: 
 visit https://storybook.namefi.dev/
-or build locally 
+
+or build locally and view it:
 
 ```sh
 git clone https://github.com/d3servelabs/namefi-storybook.git
@@ -19,12 +20,13 @@ npm run storybook
 
 ![alt text](image-1.png)
 
-Replicate: 
-visit https://storybook.namefi.dev/
-or build locally 
+To view a online instance: 
+visit https://learn-nestjs-app.vercel.app/
+
+or build locally and view it:
 
 ```sh
-git clone git@github.com:xinbenlv-just-learning/learn-nestjs-app.git
+git clone git@github.com:xinbenlvlearn-nestjs-app.git
 cd learn-nestjs-app
 npm install
 npm run dev
