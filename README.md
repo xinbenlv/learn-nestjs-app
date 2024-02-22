@@ -24,9 +24,9 @@ visit https://storybook.namefi.dev/
 or build locally 
 
 ```sh
-git clone 
-cd namefi-storybook
+git clone git@github.com:xinbenlv-just-learning/learn-nestjs-app.git
+cd learn-nestjs-app
 npm install
-npm run storybook
-# visit http://localhost:6006/
+npm run dev
+# visit http://localhost:3000/
 ```
